@@ -1,0 +1,29 @@
+.result{
+    border-top: black;
+    font-weight: bold;
+    margin: 20%;
+}
+
+.math-card {
+    display:inline-block;
+    background-color:rgb(126, 164, 235);
+    margin-right: 50%;
+    padding: 1.5%;
+    font-family:monospace;
+    text-align: right;
+    font-size: 30px;
+}
+
+.first-term{
+    margin: 15%;
+}
+
+.second-term{
+    margin: 15%;
+}
+
+.result{
+    border-top: black;
+    font-weight: bold;
+    margin: 20%;
+}
